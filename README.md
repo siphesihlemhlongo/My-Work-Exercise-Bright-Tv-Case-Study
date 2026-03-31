@@ -27,6 +27,7 @@ Contains the main analysis for BrightTV:
   - `viewership.csv` – user viewing sessions  
 - **Dashboard Screenshot / Link:**  
   - Optional: Screenshot of interactive Databricks dashboard for visualization
+  https://dbc-28114123-5665.cloud.databricks.com/editor/notebooks/443935624194125/dashboards/33897e29-eb6a-4646-ac00-739aef55d272?o=7474644431810915
 
 ### 2. Exercises
 Contains exercises completed as part of the course (Python, data analysis, etc.)
